@@ -1,0 +1,16 @@
+!SESSION 2014-10-14 03:14:19.613 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.7.0_67
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product com.android.ide.eclipse.adt.package.adtproduct
+Command-line arguments:  -data /home/marc/workspace2/SuicidePreventionApp/PHPWebsite -os linux -ws gtk -arch x86_64 -product com.android.ide.eclipse.adt.package.adtproduct
+
+!ENTRY org.eclipse.ui 2 2 2014-10-14 03:14:55.517
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.jst.jsp.ui, propertyPage: org.eclipse.jst.jsp.ui.propertyPage.project.validation)
+
+!ENTRY org.eclipse.ui 2 2 2014-10-14 03:14:55.521
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.html.ui, propertyPage: org.eclipse.wst.html.ui.propertyPage.project.validation)
+
+!ENTRY org.eclipse.ui 2 2 2014-10-14 03:14:55.522
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)

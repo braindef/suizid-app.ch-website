@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="strophejs/plugins/|js/js/|strophejs/src/|strophejs/|strophejs/tests/|strophejs/examples/|css/ie/|js/|strophejs/contrib/discojs/scripts/" kind="src" path=""/>
+	<classpathentry kind="src" path="css/ie"/>
+	<classpathentry excluding="js/" kind="src" path="js"/>
+	<classpathentry kind="src" path="js/js"/>
+	<classpathentry excluding="plugins/|src/|tests/|examples/|contrib/discojs/scripts/" kind="src" path="strophejs"/>
+	<classpathentry kind="src" path="strophejs/contrib/discojs/scripts"/>
+	<classpathentry kind="src" path="strophejs/examples"/>
+	<classpathentry kind="src" path="strophejs/plugins"/>
+	<classpathentry kind="src" path="strophejs/src"/>
+	<classpathentry kind="src" path="strophejs/tests"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
