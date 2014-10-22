@@ -2,7 +2,8 @@ suizid-app.ch ::  website
 
 Author: Marc Landolt
 Website: suizid-app.ch
-OS: Android API 13+
-Dependencies: asmack-android-8 4.0.2 / org.xbill.dns 2.1.6 (both libraries as jar's in the libs directory)
+OS: debian jessie
+Dependencies: ejabberd, php, apache, suizid-app.ch/XmppBot
+Modulies: strophe.js (directory linked to github repo)
 
 Software to get help from supporter or getting calls when logged in as supporter
