@@ -123,10 +123,10 @@ if($correctsum != $_POST['nocaptcha'])
 							</div>	<br>
 <p style="color: red;font-size: 1em;">bitte nach dem Chat bewertung abgeben und mit dem Beenden Knopf beenden</p>
 
-  <fieldset style="font-size:1em;font-weight:bold;margin:auto;">
+  <fieldset style="font-size:1em;font-weight:bold;">
     <input type="radio" id="gerettet" name="Punkte" value="gerettet"><label for="gerettet"><font color="green"> gerettet :))</font></label><br>
     <input type="radio" id="geholfen" name="Punkte" value="geholfen"><label for="geholfen"><font color="orange"> geholfen :)</font></label><br>
-    <input type="radio" id="verschlimmert" name="Punkte" value="verschlimmert"><label for="verschlimmert"><font color="red"> verschlimmert :(</font></label><br>
+    <input type="radio" id="verschlimmert" name="Punkte" value="verschlimmert"><label for="verschlimmert"><font color="red">verschlimmert :(</font></label><br>
     <input align="right" type='button' id="logout" value="beenden" style="font-size:1em;left=50%" >
   </fieldset> <?PHP echo $user;?>
 

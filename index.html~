@@ -38,7 +38,12 @@
 					<li><a href="./sha.apk">Android APP</a></li>
 				</ul>
 			</nav>
-
+<div id="floatdiv" style="  
+    position:absolute;  
+    width:200px;height:50px;top:10px;right:10px;  
+    padding:16px;background:#00FFFF;  
+    border:2px solid #2266AA;  
+    z-index:100"> TEST </div>
 		<!-- Home -->
 			<div class="wrapper style1">
 				<article class="container" id="top">
@@ -49,7 +54,7 @@
 						<div class="8u">
 							<header>
 								<h1><strong>Hallo...</strong></h1>
-							</header><font color=red>Achtung, diese Seite ist noch nicht Produktiv aufgeschaltet</font>
+							</header>
 							<p>herzlich willkommen auf unserer <strong>Suizidpr&auml;ventions Seite</strong> eine Gratis Dienstleistung von Menschen die selber solche Erfahrungen gemacht haben oder einfach nur helfen wollen.</a></p>
 									<p style="color: blue;font-size: 1em;">um zu verbinden bitte die beiden Zahlen addieren und connect dr&uuml;cken</p>
 
