@@ -22,4 +22,8 @@ echo sudo a2ensite default-ssl
 echo sudo a2enmod ssl sudo service apache2 restart 
 echo sudo /etc/init.d/apache2 restart
 
+echo build strophe.js
+apt-get install build-essential
+cd strophejs
+make
 
