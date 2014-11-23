@@ -27,3 +27,8 @@ apt-get install build-essential
 cd strophejs
 make
 
+echo
+echo do not forget to enable bosh in your ejabberd configuration file
+echo diff:
+echo 559d558
+echo <   {mod_http_bind, []},
