@@ -1,5 +1,8 @@
 #!/bin/sh
 
+echo rename SERVER!!
+exit
+
 apt-get install sudo ejabberd apache2 php5 php5-curl rsync libapache2-mod-php5
 dpkg-reconfigure ejabberd
 
